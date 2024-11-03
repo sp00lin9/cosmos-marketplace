@@ -1,0 +1,9 @@
+{
+    "name": "Particl Desktop",
+    "longDescription": "<p>Particl Desktop is a privacy-focused wallet and marketplace application, designed to give you full control over your digital assets. Built with strong privacy protocols, it allows for secure transactions, messaging, and decentralized commerce without intermediaries. Experience full ownership of your data and financial freedom in a decentralized ecosystem.</p>",
+    "description": "A secure and private wallet for managing digital assets, with integrated decentralized marketplace functionality.",
+    "tags": ["privacy", "wallet", "decentralized", "blockchain", "self-hosted"],
+    "repository": "https://github.com/particl/particl-desktop",
+    "image": "https://hub.docker.com/r/ludx/particl",
+    "supported_architectures": ["amd64", "arm64"]
+}
